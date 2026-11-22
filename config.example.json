@@ -1,0 +1,12 @@
+{
+  "years": "auto",
+  "year_offsets": [-1, 0, 1],
+  "tabs": [1, 2, 3, 4],
+  "interval_minutes": 10,
+  "detail_sweep_hours": 2,
+  "detail_workers": 4,
+  "request_delay_sec": 0.35,
+  "timeout_sec": 30,
+  "retries": 3,
+  "notify_command": ""
+}

@@ -1,0 +1,20 @@
+# 运行时产物：含抓取到的平台内容，不入库
+data/
+dist/
+
+# 本地配置（从 config.example.json 复制后自行修改）
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 工具缓存
+.graphflow-cache/
+graphflow-out/
+.idea/
+.vscode/
+*.log
